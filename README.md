@@ -9,6 +9,6 @@
 - 🌱 I want to learn : React,Transformers
 - 👯 I’m looking to collaborate on : Full Stack Projects, ML Projects,
 - 🤔 I’m looking for help with : Advanced Computer Vision,Transformers.
-- 💬 Ask me about : Machine Learning
+- 💬 Ask me about : Machine Learning,Natural Language Processing
 - 📫 How to reach me : https://www.linkedin.com/in/abhishek-anantharam-b0096218b/
 
