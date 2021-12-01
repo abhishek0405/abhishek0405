@@ -5,10 +5,10 @@
 -->
 
 
-- 🔭 I’m currently working on : Full Stack Development,Competitive Programming
-- 🌱 I want to learn : React,GraphQL
+- 🔭 I’m currently working on : Backend,Deep Learning, Bitcoin
+- 🌱 I want to learn : Web3
 - 👯 I’m looking to collaborate on : Full Stack Projects, ML Projects,
-- 🤔 I’m looking for help with : Advanced Computer Vision,Transformers.
-- 💬 Ask me about : Machine Learning,Natural Language Processing,NodeJS
+- 🤔 I’m looking for help with : System Design
+- 💬 Ask me about : Machine Learning,Natural Language Processing, Algorithms, Bitcoin
 - 📫 How to reach me : https://www.linkedin.com/in/abhishek-anantharam-b0096218b/
 
