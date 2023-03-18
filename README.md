@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on : Backend,Deep Learning, Bitcoin
-- 🌱 I want to learn : Web3
+- 🌱 I want to learn : System Design
 - 👯 I’m looking to collaborate on : Full Stack Projects, ML Projects,
 - 🤔 I’m looking for help with : System Design
 - 💬 Ask me about : Machine Learning,Natural Language Processing, Algorithms, Bitcoin
